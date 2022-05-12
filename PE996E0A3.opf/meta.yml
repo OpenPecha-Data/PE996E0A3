@@ -349,3 +349,8 @@ source_metadata:
       parent: Vajrasattva
 created_at: '2022-03-01T00:57:12.466804'
 last_modified_at: '2022-03-01T00:57:12.466806'
+statistics:
+  total_words: 55518
+  total_non_words: 5519
+quality:
+  non_words_ratio: 0.1
